@@ -1,0 +1,1 @@
+npm init -y && npm i express cors morgan && echo > ".gitignore" node_modules && mkdir src public && echo > "src/server.js" "'use strict';" && npm i nodemon -D
